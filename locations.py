@@ -1,4 +1,4 @@
-import map
+import maps
 
 # Locations
 locations = ['sewer', 'shopping centre', 'scrap yard', 'city tower']
